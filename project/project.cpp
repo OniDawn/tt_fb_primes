@@ -14,7 +14,7 @@ int main()
     * Happy coding!
     */
 
-   for (const int prime : Math::PrimeVector::upTo(35))
+   for (const int prime : Math::PrimeVector::upTo(70))
    {
       std::cout << prime << std::endl;
    }
